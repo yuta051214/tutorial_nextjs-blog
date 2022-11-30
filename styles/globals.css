@@ -20,6 +20,11 @@ img {
   height: auto;
 }
 
+/* 追加分 */
+h1 {
+  color: red;
+}
+
 h1,
 h2,
 p,
